@@ -862,6 +862,7 @@ button {
   letter-spacing: 0.01em;
 
   color: #757575;
+  cursor: pointer;
 }
 .input-wrap {
   display: block;
@@ -878,6 +879,7 @@ button {
   border: 1px solid rgba(33, 33, 33, 0.2);
 
   transition: border var(--transit);
+  cursor: pointer;
 }
 .form-input:hover,
 .form-input:focus,
@@ -940,6 +942,7 @@ button {
   align-items: center;
 
   line-height: 1.7;
+  cursor: pointer;
 }
 
 .terms-label span {
@@ -958,6 +961,8 @@ button {
 }
 
 .terms-link {
+  text-decoration: underline;
+  color: var(--brand-color);
 }
 
 .btn {
