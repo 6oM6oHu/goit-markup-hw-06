@@ -304,7 +304,7 @@ button {
   flex-basis: calc((100% - 90px) / 4);
 }
 
-.feature-wrapp {
+.feature-wrap {
   display: flex;
   width: 270px;
   height: 120px;
